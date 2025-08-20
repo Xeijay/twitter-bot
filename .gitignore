@@ -1,0 +1,13 @@
+# 🔒 Secrets (never commit API keys)
+.env
+
+# 🐍 Python cache / virtual env
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 💻 OS & editor junk
+.DS_Store
+Thumbs.db
+*.log
